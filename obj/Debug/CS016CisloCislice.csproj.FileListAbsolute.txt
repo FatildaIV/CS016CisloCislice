@@ -1,0 +1,6 @@
+C:\Users\michal.michna\Documents\Visual Studio 2017\Projects\CS016CisloCislice\bin\Debug\CS016CisloCislice.exe.config
+C:\Users\michal.michna\Documents\Visual Studio 2017\Projects\CS016CisloCislice\bin\Debug\CS016CisloCislice.exe
+C:\Users\michal.michna\Documents\Visual Studio 2017\Projects\CS016CisloCislice\bin\Debug\CS016CisloCislice.pdb
+C:\Users\michal.michna\Documents\Visual Studio 2017\Projects\CS016CisloCislice\obj\Debug\CS016CisloCislice.csprojResolveAssemblyReference.cache
+C:\Users\michal.michna\Documents\Visual Studio 2017\Projects\CS016CisloCislice\obj\Debug\CS016CisloCislice.exe
+C:\Users\michal.michna\Documents\Visual Studio 2017\Projects\CS016CisloCislice\obj\Debug\CS016CisloCislice.pdb
